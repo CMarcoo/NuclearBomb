@@ -1,6 +1,9 @@
 name: NuclearBomb
 version: '${project.version}'
 main: top.cmarco.nuclearbomb.NuclearBomb
-api-version: '1.14'
+api-version: '1.13'
 authors: [CMarco]
-description: Get yourself a Nuclear Bomb
+description: "Unleash Destruction on Your Minecraft World!"
+commands:
+  nuclearbomb:
+    description: 'Get nuclear bombs.'
